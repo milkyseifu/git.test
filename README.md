@@ -1,0 +1,1 @@
+This is milky seifu's first git project
